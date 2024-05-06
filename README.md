@@ -18,11 +18,12 @@
       <img src="https://github-readme-stats.vercel.app/api?username=vish07012001&theme=highcontrast&show_icons=true&count_private=true" />
     
   </div>
-  <li></li>
+  <li></li>  
   <div align="left">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vish07012001" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vish07012001&langs_count=30&layout=compact&hide_border=true" />
   </div>
-  </ol>
+
+  </ul>
 </body>
 <!---
 vish07012001/vish07012001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
