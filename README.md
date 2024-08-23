@@ -9,13 +9,47 @@ I am highly interested in **Data Analytics** and **Web Development**.
 👀 I’m a coding geek who loves to work with:
 - Python
 - Django
+- DjangoRestFramework
 - HTML
 - CSS
 - JS
 - PHP
 - SQL
 
-🌱 I’m a **potential graduate this fall 2024**.
+<h3>Languages and Tools</h3>
+<p>    
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a>   
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
+  </a>   
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> 
+  </a> 
+   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a>  
+  
+</p>
+<br>
+
+🌱 I’m a **Graduate this fall 2024**.
 
 💞️ I have worked **8 months as a full-time backend PHP developer and 8 months as a Data Engineer** during my internship.
 
@@ -24,6 +58,11 @@ I am highly interested in **Data Analytics** and **Web Development**.
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vish07012001&theme=highcontrast&show_icons=true&count_private=true)
+<p > 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vish07012001" alt="vish07012001" />
+  </a> 
+</p>
 
 ## Top Languages
 
