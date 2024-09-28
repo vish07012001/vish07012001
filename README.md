@@ -49,7 +49,7 @@ I am highly interested in **Data Analytics** and **Web Development**.
 </p>
 <br>
 
-🌱 I’m a **Graduate this fall 2024**.
+🌱 I’m a **Graduating this fall 2024**.
 
 💞️ I have worked **8 months as a full-time backend PHP developer and 8 months as a Data Engineer** during my internship.
 
