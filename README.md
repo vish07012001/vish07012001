@@ -2,7 +2,7 @@
 
 ![Vishva Shah](https://readme-typing-svg.herokuapp.com/?lines=Vishva+Shah;Web+developer&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21)
 
-Computer Science Graduate from Concordia University.
+**Computer Science Graduate from Concordia University.**
 
 I am highly interested in **Web Development**.
 
